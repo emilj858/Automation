@@ -1,0 +1,8 @@
+C:\Dev\GoFormzAutomation\GoFormzAutomation\bin\Debug\GoFormzAutomation.dll
+C:\Dev\GoFormzAutomation\GoFormzAutomation\bin\Debug\GoFormzAutomation.pdb
+C:\Dev\GoFormzAutomation\GoFormzAutomation\bin\Debug\WebDriver.xml
+C:\Dev\GoFormzAutomation\GoFormzAutomation\bin\Debug\WebDriver.Support.xml
+C:\Dev\GoFormzAutomation\GoFormzAutomation\obj\Debug\GoFormzAutomation.dll
+C:\Dev\GoFormzAutomation\GoFormzAutomation\obj\Debug\GoFormzAutomation.pdb
+C:\Dev\GoFormzAutomation\GoFormzAutomation\bin\Debug\Dependencies\geckodriver.exe
+C:\Dev\GoFormzAutomation\GoFormzAutomation\obj\Debug\GoFormzAutomation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Dev\GoFormzAutomation\GoFormzTests\bin\Debug\GoFormzTests.dll
+C:\Dev\GoFormzAutomation\GoFormzTests\bin\Debug\GoFormzTests.pdb
+C:\Dev\GoFormzAutomation\GoFormzTests\bin\Debug\GoFormzAutomation.dll
+C:\Dev\GoFormzAutomation\GoFormzTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\GoFormzAutomation\GoFormzTests\bin\Debug\WebDriver.dll
+C:\Dev\GoFormzAutomation\GoFormzTests\bin\Debug\GoFormzAutomation.pdb
+C:\Dev\GoFormzAutomation\GoFormzTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Dev\GoFormzAutomation\GoFormzTests\bin\Debug\WebDriver.xml
+C:\Dev\GoFormzAutomation\GoFormzTests\obj\Debug\GoFormzTests.csprojResolveAssemblyReference.cache
+C:\Dev\GoFormzAutomation\GoFormzTests\obj\Debug\GoFormzTests.dll
+C:\Dev\GoFormzAutomation\GoFormzTests\obj\Debug\GoFormzTests.pdb
+C:\Dev\GoFormzAutomation\GoFormzTests\bin\Debug\Dependencies\geckodriver.exe
+C:\Dev\GoFormzAutomation\GoFormzTests\bin\Debug\WebDriver.Support.dll
+C:\Dev\GoFormzAutomation\GoFormzTests\bin\Debug\WebDriver.Support.xml
